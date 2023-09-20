@@ -6,7 +6,6 @@
 .head1{
     height:70px;
     width: 20%;
-
     background-color: white;
 }
 .img{
@@ -30,9 +29,19 @@
     box-shadow: 1px 1px 8px 1px;
 }
 .profile{
-    height: 20%;
+    height: 25%;
     width: 100%;
     box-shadow: 0 0 4px 1px;
+    display: flex;
+}
+.imgpro{
+    
+   border-radius: 50%;
+   border: 1px solid red;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    justify-content: space-around;
 }
 .navig{
     height: 70%;

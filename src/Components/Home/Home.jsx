@@ -8,13 +8,13 @@ export const Home = () => {
     <div className='Container'>
         <div>
             <div className='head1'>
-            <img className='img' src='H:\FunctionUp\FunProject\projectui\public\logo.jpg' alt='logo'/>
+            <img className='img' src='logo512.png' alt='logo'/>
             </div>
         </div> 
         <div className='boddy'>
            <div className='navigate'>
             <div className='profile'>
-
+                <img className='imgpro' src='logo.jpg' alt='img'/>
             </div>
             <div className='navig'>
                 <Navigate/>
